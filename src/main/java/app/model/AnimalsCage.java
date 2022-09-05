@@ -20,9 +20,11 @@ public class AnimalsCage {
         System.out.println("Say:");
         System.out.println(animal.toString());
         System.out.println("At:");
+
 // новый таймер, создает каждый раз новое время
 //        System.out.println(new Timer().getTime());
-// таймер, который показывает одно и то же время
+
+// таймер, который показывает одинаковое время
         System.out.println(timer.getTime());
         System.out.println("________________________");
     }

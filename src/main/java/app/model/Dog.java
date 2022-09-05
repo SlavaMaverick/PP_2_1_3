@@ -10,6 +10,6 @@ public class Dog extends Animal {
     }
 
     public Dog() {
-        System.out.println("бин Dog добавлен в контекст Spring");
+        System.out.println("Бин Dog добавлен в контекст Spring");
     }
 }

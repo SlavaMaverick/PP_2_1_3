@@ -12,7 +12,6 @@ public class Timer {
         return this;
     }
 
-
     private Long nanoTime = System.nanoTime();
 
     public Long getTime() {
